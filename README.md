@@ -1,1 +1,1 @@
-<h2>PLASMA</h2>
+<h1 align="center">PLASMA</h1>
